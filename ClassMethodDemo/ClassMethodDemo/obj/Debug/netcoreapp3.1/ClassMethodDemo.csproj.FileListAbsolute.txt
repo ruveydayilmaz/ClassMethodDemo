@@ -1,0 +1,13 @@
+C:\Users\ruvey\OneDrive\Masaüstü\ClassMethodDemo\ClassMethodDemo\ClassMethodDemo\bin\Debug\netcoreapp3.1\ClassMethodDemo.exe
+C:\Users\ruvey\OneDrive\Masaüstü\ClassMethodDemo\ClassMethodDemo\ClassMethodDemo\bin\Debug\netcoreapp3.1\ClassMethodDemo.deps.json
+C:\Users\ruvey\OneDrive\Masaüstü\ClassMethodDemo\ClassMethodDemo\ClassMethodDemo\bin\Debug\netcoreapp3.1\ClassMethodDemo.runtimeconfig.json
+C:\Users\ruvey\OneDrive\Masaüstü\ClassMethodDemo\ClassMethodDemo\ClassMethodDemo\bin\Debug\netcoreapp3.1\ClassMethodDemo.runtimeconfig.dev.json
+C:\Users\ruvey\OneDrive\Masaüstü\ClassMethodDemo\ClassMethodDemo\ClassMethodDemo\bin\Debug\netcoreapp3.1\ClassMethodDemo.dll
+C:\Users\ruvey\OneDrive\Masaüstü\ClassMethodDemo\ClassMethodDemo\ClassMethodDemo\bin\Debug\netcoreapp3.1\ClassMethodDemo.pdb
+C:\Users\ruvey\OneDrive\Masaüstü\ClassMethodDemo\ClassMethodDemo\ClassMethodDemo\obj\Debug\netcoreapp3.1\ClassMethodDemo.csprojAssemblyReference.cache
+C:\Users\ruvey\OneDrive\Masaüstü\ClassMethodDemo\ClassMethodDemo\ClassMethodDemo\obj\Debug\netcoreapp3.1\ClassMethodDemo.AssemblyInfoInputs.cache
+C:\Users\ruvey\OneDrive\Masaüstü\ClassMethodDemo\ClassMethodDemo\ClassMethodDemo\obj\Debug\netcoreapp3.1\ClassMethodDemo.AssemblyInfo.cs
+C:\Users\ruvey\OneDrive\Masaüstü\ClassMethodDemo\ClassMethodDemo\ClassMethodDemo\obj\Debug\netcoreapp3.1\ClassMethodDemo.csproj.CoreCompileInputs.cache
+C:\Users\ruvey\OneDrive\Masaüstü\ClassMethodDemo\ClassMethodDemo\ClassMethodDemo\obj\Debug\netcoreapp3.1\ClassMethodDemo.dll
+C:\Users\ruvey\OneDrive\Masaüstü\ClassMethodDemo\ClassMethodDemo\ClassMethodDemo\obj\Debug\netcoreapp3.1\ClassMethodDemo.pdb
+C:\Users\ruvey\OneDrive\Masaüstü\ClassMethodDemo\ClassMethodDemo\ClassMethodDemo\obj\Debug\netcoreapp3.1\ClassMethodDemo.genruntimeconfig.cache
